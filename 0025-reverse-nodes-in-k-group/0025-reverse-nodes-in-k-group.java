@@ -9,6 +9,13 @@
  * }
  */
 class Solution {
+    private ListNode getKthNode(ListNode curr, int k) {
+        while (curr != null && k > 0) {
+            curr = curr.next;
+            k--;
+        }
+        return curr;
+    }
     public ListNode reverseKGroup(ListNode head, int k) 
     {
         if(head == null || k == 1)
@@ -19,11 +26,7 @@ class Solution {
         ListNode groupprev = dummy; //pehle group ka 1 element
         while (true)
         {
-           ListNode kth=groupprev;
-           for(int i=0;i<k && kth != null;i++)
-           {
-             kth=kth.next;
-           }
+           ListNode kth=getKthNode(groupprev,k);
            if(kth == null)
                 break;
            
