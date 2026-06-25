@@ -31,9 +31,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
