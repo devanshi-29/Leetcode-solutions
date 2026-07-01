@@ -13,9 +13,8 @@ class Solution {
            if(!hs.contains(x-1)) // starting point x hai 
              {
                 int len=1;
-                while(hs.contains(x+1))// aage ke or check krenge 
+                while(hs.contains(x+len))// aage ke or check krenge 
                 {
-                    x++;
                     len++;
                 }
                  maxlen=Math.max(maxlen,len);
