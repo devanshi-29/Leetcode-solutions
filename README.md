@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3975-filter-occupied-intervals](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Trie
 |  |
@@ -49,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [3975-filter-occupied-intervals](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 <!---LeetCode Topics End-->
