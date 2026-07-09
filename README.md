@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3975-filter-occupied-intervals](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Trie
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3975-filter-occupied-intervals](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Union-Find
 |  |
