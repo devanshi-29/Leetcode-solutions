@@ -26,16 +26,17 @@ class FindSumPairs {
         
     }
     
+    
     public int count(int tot) {
         int c=0;
-        for(int i=0;i<n1.length;i++)
-        {
-            int need=tot-n1[i];
-            if(hm.containsKey(need)) c+=hm.getOrDefault(need, 0);
-        }
+        for(int x : n1)
+          {
+            c += hm.getOrDefault(tot - x, 0);
+          }
         return c;
     }
 }
+
 
 /**
  * Your FindSumPairs object will be instantiated and called as such:
