@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3975-filter-occupied-intervals](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Trie
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0135-candy) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+## Design
+|  |
+| ------- |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
