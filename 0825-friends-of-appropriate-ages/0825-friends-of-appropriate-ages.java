@@ -8,23 +8,28 @@ class Solution {
         {
             freq[age[i]]++;
         }
-        for(int x=1;x<=120;x++)
+        for(int A=1;A<=120;A++)
         {
-            if(freq[x]==0) continue;
-            for(int y=1;y<=120;y++)
+            if(freq[A]==0) continue;
+            for(int B=1;B<=120;B++)
             {
-                if(freq[y]==0)continue;
-                boolean cond1=y<=(0.5*x+7);
-                boolean cond2=y>x;
-                boolean cond3=y>100 && x<100;
+                if(freq[B]==0)continue;
 
-                if(!(cond1 || cond2 ||cond3)) 
-                   {
-                     if (x == y)
-                        count += freq[x] * (freq[x] - 1);
-                     else
-                        count += freq[x] * freq[y];
-                   }
+                if (B <= 0.5 * A + 7)
+                    continue;
+
+                if (B > A)
+                    continue;
+
+                if (B > 100 && A < 100)
+                    continue;
+
+        
+                if (A == B)
+                        count += freq[A] * (freq[A] - 1);
+                else
+                        count += freq[A] * freq[B];
+                   
 
             }
         }
