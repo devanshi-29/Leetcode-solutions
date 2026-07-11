@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 ## Counting
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
