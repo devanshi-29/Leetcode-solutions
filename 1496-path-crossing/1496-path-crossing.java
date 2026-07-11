@@ -12,8 +12,7 @@ class Solution {
          else if(ch == 'E') x++;
          else if(ch == 'S')y--;
         if(hs.contains(x + "," + y)) return true;
-        hs.add(x + "," + y);
-         
+        else hs.add(x + "," + y);  
        }
 
        return false;
