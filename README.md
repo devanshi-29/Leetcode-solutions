@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Stack
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -138,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 <!---LeetCode Topics End-->
