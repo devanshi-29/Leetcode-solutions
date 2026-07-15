@@ -149,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
