@@ -1,10 +1,7 @@
 class Solution {
-    public List<Boolean> camelMatch(String[] queries, String p) 
-    { 
-        List<Boolean> ans=new ArrayList<>();
-        for(String s:queries)
-        {
-           int i=0,j=0; 
+    public boolean match(String s,String p)
+    {
+        int i=0,j=0; 
            while( i<s.length())
            {
              if(j<p.length() && s.charAt(i)==p.charAt(j)) 
@@ -17,14 +14,16 @@ class Solution {
              else if(Character.isLowerCase(s.charAt(i))) i++;
 
              //extra uppercase
-             else break;
-           }
-            
-           if (i != s.length()) {
-                ans.add(false);
-              }
-           else if(j==p.length()) ans.add(true);
-           else ans.add(false);
+             else return false;
+           }          
+           return j==p.length();
+    }
+    public List<Boolean> camelMatch(String[] queries, String p) 
+    { 
+        List<Boolean> ans=new ArrayList<>();
+        for(String s:queries)
+        {
+           ans.add(match(s,p));
         }
 
         return ans;
