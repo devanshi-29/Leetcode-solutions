@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting
 |  |
 | ------- |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
