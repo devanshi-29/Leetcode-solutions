@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3975-filter-occupied-intervals](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Trie
