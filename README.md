@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
