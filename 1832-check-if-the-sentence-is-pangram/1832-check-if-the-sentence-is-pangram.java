@@ -1,15 +1,8 @@
 class Solution {
     public boolean checkIfPangram(String s) 
     {
-        int []freq=new int[26];
-        for(int i=0;i<s.length();i++)
-        {
-            freq[s.charAt(i)-'a']++;
-        }
-
-        for(int i=0;i<26;i++)
-        {
-            if(freq[i]==0) return false;
+        for(char ch='a';ch<='z';ch++){
+            if(!s.contains(String.valueOf(ch))) return false;
         }
         return true;
     }
