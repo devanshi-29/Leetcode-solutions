@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [0954-array-of-doubled-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
+| [1052-grumpy-bookstore-owner](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1052-grumpy-bookstore-owner](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 ## Matrix
 |  |
 | ------- |
