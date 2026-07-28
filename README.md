@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0763-partition-labels) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0763-partition-labels) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0748-shortest-completing-word](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
