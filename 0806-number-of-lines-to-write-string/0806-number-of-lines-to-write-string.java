@@ -5,14 +5,13 @@ class Solution {
         for(int i=0;i<s.length();i++){
             int width=widths[s.charAt(i)-'a'];
 
-           if(sum + width<=100){
-             sum+=width;
-           }
+            sum+=width;
 
-           else{
+            if(sum>100){
              count++;
              sum=width;
            }
+                                
         }
         return new int[] {count,sum};
     }
