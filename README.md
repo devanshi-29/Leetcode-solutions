@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0135-candy) |
+| [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1052-grumpy-bookstore-owner](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2090-k-radius-subarray-averages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
