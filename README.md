@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [0954-array-of-doubled-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0916-word-subsets](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0916-word-subsets) |
 | [0954-array-of-doubled-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
 | [1052-grumpy-bookstore-owner](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
