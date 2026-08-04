@@ -3,15 +3,16 @@ class Solution {
     {
         ArrayList<Integer>ans=new ArrayList<>();
         HashSet <Integer> hs= new HashSet<>();
-       Arrays.sort(nums);
-       int min=nums[0];
-       int max=nums[nums.length-1];
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
        for(int x:nums)
        {
-         if(hs.add(x));
+          min=Math.min(min,x);
+          max=Math.max(max,x);
+          hs.add(x);
        }
 
-       for(int i=min;i<=max;i++) 
+       for(int i=min+1;i<max;i++) 
        {
          if(!hs.contains(i)) ans.add(i);
        }
