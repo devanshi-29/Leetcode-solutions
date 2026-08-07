@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1816-truncate-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
