@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2090-k-radius-subarray-averages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3731-find-missing-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
 | ------- |
