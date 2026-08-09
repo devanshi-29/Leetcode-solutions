@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
