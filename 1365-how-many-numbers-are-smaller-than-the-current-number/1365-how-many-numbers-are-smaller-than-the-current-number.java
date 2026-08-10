@@ -1,24 +1,27 @@
 class Solution {
-    public int[] smallerNumbersThanCurrent(int[] nums) 
-    {
-        HashMap<Integer,Integer>hm=new HashMap<>();
-       int ans[]=new int[nums.length];
-       for(int x:nums)
-       {
-         hm.put(x,hm.getOrDefault(x,0)+1);
-       }
+    public int[] smallerNumbersThanCurrent(int[] nums) {
 
-       int i=0;
-       while(i<nums.length){
-           int count=0;
-           for(int key:hm.keySet()){
-               if(nums[i]>key) count+=hm.get(key);
-           }
-           ans[i]=count;
-           i++;
-       }
-       
+        int freq[] = new int[101];
 
-       return ans;
+        // frequency count
+        for(int x : nums) {
+            freq[x]++;
+        }
+
+        // prefix sum
+        for(int i = 1; i <= 100; i++) {
+            freq[i] += freq[i - 1];
+        }
+
+        int ans[] = new int[nums.length];
+
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] == 0)
+                ans[i] = 0;
+            else
+                ans[i] = freq[nums[i] - 1];
+        }
+
+        return ans;
     }
 }
