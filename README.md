@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Backtracking
 |  |
 | ------- |
