@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
