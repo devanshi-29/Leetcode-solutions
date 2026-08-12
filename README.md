@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2032-two-out-of-three](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1052-grumpy-bookstore-owner](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2090-k-radius-subarray-averages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
 | ------- |
