@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1773-count-items-matching-a-rule](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
