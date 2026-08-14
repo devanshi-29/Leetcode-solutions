@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2490-circular-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [2090-k-radius-subarray-averages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
 | ------- |
