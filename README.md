@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1446-consecutive-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1446-consecutive-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1023-camelcase-matching](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1023-camelcase-matching) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/devanshi-29/Leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
