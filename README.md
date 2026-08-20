@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
