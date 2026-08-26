@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0079-word-search) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -474,12 +475,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
