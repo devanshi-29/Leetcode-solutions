@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
