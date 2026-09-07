@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-matrix-diagonal-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0981-time-based-key-value-store](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1898-maximum-number-of-removable-characters](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Math
 |  |
