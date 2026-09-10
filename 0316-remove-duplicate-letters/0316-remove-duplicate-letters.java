@@ -23,10 +23,10 @@ class Solution {
         }
         
         StringBuilder sb = new StringBuilder();
-        while(!st.isEmpty()){
-            sb.append(st.pop());
+         for (char c : st) {
+            sb.append(c);
         }
 
-        return sb.reverse().toString();
+        return sb.toString();
     }
 }
