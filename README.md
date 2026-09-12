@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Pigeonhole Principle
 |  |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -515,5 +517,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
