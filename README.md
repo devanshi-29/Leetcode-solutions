@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1773-count-items-matching-a-rule](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1816-truncate-sentence) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0954-array-of-doubled-pairs](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/devanshi-29/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
