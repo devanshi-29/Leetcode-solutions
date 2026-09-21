@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0981-time-based-key-value-store](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 ## Binary Search
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Pigeonhole Principle
 |  |
@@ -513,12 +516,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -526,9 +531,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->
