@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -532,10 +533,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/devanshi-29/Leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0449-serialize-and-deserialize-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/devanshi-29/Leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
